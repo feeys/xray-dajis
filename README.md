@@ -1,2 +1,2 @@
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/feeys/xray-dj"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/feeys/xray-dajis"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
